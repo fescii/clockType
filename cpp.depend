@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647940168 source:/home/femar/Desktop/cpp/clockTypeImp.cpp
+	<iostream>
+	"clockType.h"
+
+1647940297 /home/femar/Desktop/cpp/clockType.h
+
+1647940341 source:/home/femar/Desktop/cpp/test.cpp
+	<iostream>
+	"clockType.h"
+
